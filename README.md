@@ -1,6 +1,6 @@
 # Neural-Networks
 
-This repository contains the implementation of single-layer perceptron, training and evaluating a multi-layer perceptron using scikit-learn
+This repository contains the implementation of single-layer perceptron, training and evaluating a multi-layer perceptron using scikit-learn.
 
 ## Main Goal
 
